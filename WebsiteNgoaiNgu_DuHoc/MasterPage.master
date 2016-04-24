@@ -1,0 +1,461 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Acme | Home</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="img/favicon.png" />
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/theme.css" rel="stylesheet" />
+    <link href="css/bootstrap-reset.css" rel="stylesheet" />
+    <!-- <link href="css/bootstrap.min.css" rel="stylesheet" />-->
+
+    <!--external css-->
+    <link href="assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/flexslider.css" />
+    <link href="assets/bxslider/jquery.bxslider.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/animate.css" />
+    <link rel="stylesheet" href="assets/owlcarousel/owl.carousel.css" />
+    <link rel="stylesheet" href="assets/owlcarousel/owl.theme.css" />
+
+    <!-- Menu Superfish-->
+    <link href="css/superfish.css" rel="stylesheet" media="screen" />
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css' />
+    <!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'> -->
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/style-responsive.css" rel="stylesheet" />
+
+    <!-- Page Index: Parallax Slider -->
+    <link rel="stylesheet" type="text/css" href="css/parallax-slider/parallax-slider.css" />
+    <script type="text/javascript" src="js/parallax-slider/modernizr.custom.28468.js"></script>
+
+    <!-- Tai's Style-->
+    <link href="css/tai-style.css" rel="stylesheet" />
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 tooltipss and media queries -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js" /></script>
+    <script src="js/respond.min.js" /></script>
+    <![endif]-->
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <!--header start-->
+            <header class="head-section">
+                <div class="navbar navbar-default navbar-static-top container">
+                    <div class="navbar-header">
+                        <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="Index.aspx">A<span>cme</span></a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown"
+                                    data-toggle="dropdown" href="index.html">Home <i class="fa fa-angle-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="Index.aspx">Home Parallax</a>
+                                    </li>
+                                    <li>
+                                        <a href="Index1.aspx">Home Seq-slider1</a>
+                                    </li>
+                                    <li>
+                                        <a href="index2.aspx">Home Seq-slider2</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown"
+                                    data-toggle="dropdown" href="#">Feature <i class="fa fa-angle-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="typography.aspx">Typography</a>
+                                    </li>
+                                    <li>
+                                        <a href="button.aspx">Buttons</a>
+                                    </li>
+                                    <li>
+                                        <a href="form.aspx">Form</a>
+                                    </li>
+                                    <li>
+                                        <a href="table.aspx">Table</a>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" tabindex="-1">More options</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="#" tabindex="-1">Second level</a>
+                                            </li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#">Even More..</a>
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a href="#">3rd level</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">3rd level</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="#">Second level</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Second level</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown"
+                                    data-toggle="dropdown" href="#">Pages <i class="fa fa-angle-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="About.aspx">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="Error404.aspx">404 page</a>
+                                    </li>
+                                    <li>
+                                        <a href="career.aspx">career</a>
+                                    </li>
+                                    <li>
+                                        <a href="login.aspx">Login</a>
+                                    </li>
+                                    <li>
+                                        <a href="registration.aspx">Registration</a>
+                                    </li>
+                                    <li>
+                                        <a href="faq.aspx">FAQ</a>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" tabindex="-1">Pricing table</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="dropdown-submenu"></li>
+                                            <li>
+                                                <a href="price-table-one.aspx">Pricing table one</a>
+                                            </li>
+                                            <li>
+                                                <a href="price-table-two.aspx">Pricing table two</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="service.aspx">Service</a>
+                                    </li>
+                                    <li>
+                                        <a href="terms.aspx">Terms & Condition</a>
+                                    </li>
+                                    <li>
+                                        <a href="privacy.aspx">Privacy policy</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown"
+                                    data-toggle="dropdown" href="#">Portfolio <i class="fa fa-angle-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="portfolio-3-col.aspx">Portfolio 3 column</a>
+                                    </li>
+                                    <li>
+                                        <a href="portfolio-4-col.aspx">Portfolio 4 column</a>
+                                    </li>
+                                    <li>
+                                        <a href="portfolio-single-image.aspx">Portfolio Single Image</a>
+                                    </li>
+                                    <li>
+                                        <a href="portfolio-single-video.aspx">Portfolio Single Video</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown"
+                                    data-toggle="dropdown" href="#">Blog <i class="fa fa-angle-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="Blogs.aspx">Blog</a>
+                                    </li>
+                                    <li>
+                                        <a href="Blog-two-col.aspx">Blog two column</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog-detail.aspx">Blog Single Image</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog-detail-video.aspx">Blog single video</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="Contact.aspx">Contact</a>
+                            </li>
+                            <li>
+                                <input class="form-control search" placeholder=" Search" type="text" /></li>
+                        </ul>
+                    </div>
+                </div>
+            </header>
+            <!--header end-->
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <!--footer start-->
+            <footer class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-sm-3 address wow fadeInUp" data-wow-duration="2s" data-wow-delay=".1s">
+                            <h1>contact info
+                            </h1>
+                            <address>
+                                <p><i class="fa fa-home pr-10"></i>Address: No.XXXXXX street</p>
+                                <p><i class="fa fa-globe pr-10"></i>Mars city, Country </p>
+                                <p><i class="fa fa-mobile pr-10"></i>Mobile : (123) 456-7890 </p>
+                                <p><i class="fa fa-phone pr-10"></i>Phone : (123) 456-7890 </p>
+                                <p><i class="fa fa-envelope pr-10"></i>Email :   <a href="javascript:;">support@example.com</a></p>
+                            </address>
+                        </div>
+                        <div class="col-lg-3 col-sm-3 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".3s">
+                            <h1>latest tweet</h1>
+                            <div class="tweet-box">
+                                <i class="fa fa-twitter"></i>
+                                <em>Please follow
+                  <a href="javascript:;">@example</a>
+                                    for all future updates of us!
+                  <a href="javascript:;">twitter.com/acme</a>
+                                </em>
+                            </div>
+                            <div class="tweet-box">
+                                <i class="fa fa-twitter"></i>
+                                <em>Please follow
+                  <a href="javascript:;">@example</a>
+                                    for all future updates of us!
+                  <a href="javascript:;">twitter.com/acme</a>
+                                </em>
+                            </div>
+                            <div class="tweet-box">
+                                <i class="fa fa-twitter"></i>
+                                <em>Please follow
+                  <a href="javascript:;">@example</a>
+                                    for all future updates of us!
+                  <a href="javascript:;">twitter.com/acme</a>
+                                </em>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-3">
+                            <div class="page-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".5s">
+                                <h1>Our Company
+                                </h1>
+                                <ul class="page-footer-list">
+                                    <li>
+                                        <i class="fa fa-angle-right"></i>
+                                        <a href="About.aspx">About Us</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-angle-right"></i>
+                                        <a href="faq.html">Support</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-angle-right"></i>
+                                        <a href="service.html">Service</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-angle-right"></i>
+                                        <a href="privacy-policy.html">Privacy Policy</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-angle-right"></i>
+                                        <a href="career.html">We are Hiring</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-angle-right"></i>
+                                        <a href="terms.html">Term & condition</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-3">
+                            <div class="text-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".7s">
+                                <h1>Text Widget
+                                </h1>
+                                <p>
+                                    This is a text widget.Lorem ipsum dolor sit amet.
+                This is a text widget.Lorem ipsum dolor sit amet.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- footer end -->
+            <!--small footer start -->
+            <footer class="footer-small">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-sm-6 pull-right">
+                            <ul class="social-link-footer list-unstyled">
+                                <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".1s"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".2s"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".3s"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".4s"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".5s"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".6s"><a href="#"><i class="fa fa-skype"></i></a></li>
+                                <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".7s"><a href="#"><i class="fa fa-github"></i></a></li>
+                                <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".8s"><a href="#"><i class="fa fa-youtube"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="copyright">
+                                <p>&copy; Copyright - Acme Theme by cosmic.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!--small footer end-->
+        </div>
+    </form>
+
+    <!-- js placed at the end of the document so the pages load faster
+    <script src="js/jquery.js"></script>
+    -->
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/hover-dropdown.js"></script>
+    <script defer="defer" src="js/jquery.flexslider.js"></script>
+    <script type="text/javascript" src="assets/bxslider/jquery.bxslider.js"></script>
+
+    <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="assets/owlcarousel/owl.carousel.js"></script>
+
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/link-hover.js"></script>
+    <script src="js/superfish.js"></script>
+    <script type="text/javascript" src="js/parallax-slider/jquery.cslider.js"></script>
+    <script src="js/jquery.isotope-filter.js"></script>
+
+    <!--common script for all pages-->
+    <script src="js/common-scripts.js"></script>
+
+    <script type="text/javascript">
+        new WOW().init();
+
+        $(document).ready(function () {
+
+            //Sequence Modern Slider (Index.aspx)
+            $(function () {
+
+                $('#da-slider').cslider({
+                    autoplay: true,
+                    bgincrement: 100
+                });
+
+            });
+
+            //Our Clients (Index.aspx)
+            $('.bxslider1').bxSlider({
+                minSlides: 5,
+                maxSlides: 6,
+                slideWidth: 360,
+                slideMargin: 2,
+                moveSlides: 1,
+                responsive: true,
+                nextSelector: '#slider-next',
+                prevSelector: '#slider-prev',
+                nextText: 'Onward →',
+                prevText: '← Go back'
+            });
+
+            //Tooltip Boostrap
+            $('a.info').tooltip();
+
+            //testimonial (Index.aspx)
+            $(window).load(function () {
+                $('.flexslider').flexslider({
+                    animation: "slide",
+                    start: function (slider) {
+                        $('body').removeClass('loading');
+                    }
+                });
+            });
+
+            //Recent Work (Index.aspx)
+            $("#owl-demo").owlCarousel({
+
+                items: 4
+
+            });
+
+            //cái này ở chỗ nào đây - WTF
+            $('ul.superfish').superfish();
+
+            //Crazy Skills (About.aspx)
+            $(window).scroll(function () {
+                $('#skillz').each(function () {
+                    var imagePos = $(this).offset().top;
+                    var viewportheight = window.innerHeight;
+
+                    var topOfWindow = $(window).scrollTop();
+                    if (imagePos < topOfWindow + viewportheight) {
+                        $('.skill_bar').fadeIn('slow');
+                        $('.skill_one').animate({
+                            width: '60%'
+                        }
+                                                , 2000);
+                        $('.skill_two').animate({
+                            width: '90%'
+                        }
+                                                , 2000);
+                        $('.skill_three').animate({
+                            width: '70%'
+                        }
+                                                  , 1000);
+                        $('.skill_four').animate({
+                            width: '55%'
+                        }
+                                                 , 1000);
+                        $('.skill_bar_progress p').fadeIn('slow', function () {
+
+                        }
+                                                         );
+                    }
+                }
+                                 );
+            });
+
+            //Isotope Filter
+            var container = $(".isotope").isotope({
+                itemSelector: '.element-item',
+                layoutMode: 'fitRows'
+            });
+
+            container.isotope({ filter: '*' });
+
+            $('#Filter button').click(function (e) {
+                var FilterValue = $(this).attr("data-filter");
+                container.isotope({ filter: FilterValue });
+            });
+        });
+    </script>
+</body>
+</html>
