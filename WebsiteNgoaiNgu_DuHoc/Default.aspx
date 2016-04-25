@@ -495,7 +495,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2>In case you need any help
+                        <h2>Bạn cần trợ giúp ?
                         </h2>
                     </div>
 
@@ -505,14 +505,13 @@
                                 <i class="fa fa-question"></i>
                             </div>
                             <div class="h-service-content wow fadeInUp">
-                                <h3>PRESALE QUESTION
+                                <h3>TƯ VẤN TRỰC TIẾP
                                 </h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim  laborum.
+                                    Bạn quan tâm về vấn đề du học của bản thân hay con em bạn? Hãy để chúng tôi gọi lại cho bạn. 
                  
                                     <br />
-                                    <a href="#">Learn more
+                                    <a href="Contact.aspx">CHỈ CẦN CLICK
                                     </a>
                                 </p>
                             </div>
@@ -524,14 +523,13 @@
                                 <i class="fa fa-h-square"></i>
                             </div>
                             <div class="h-service-content wow fadeInUp">
-                                <h3>NEED SUPPORT?
+                                <h3>HỎI ĐÁP NHANH
                                 </h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim  laborum.
+                                    Cập nhật những câu hỏi thường xuyên bao gồm nhiều vấn đề liên quan đến du học, định cư, du lịch.
                  
                                     <br />
-                                    <a href="#">Learn more
+                                    <a href="faq.aspx">CLICK ĐỂ XEM
                                     </a>
                                 </p>
                             </div>
@@ -543,11 +541,10 @@
                                 <i class="fa fa-users"></i>
                             </div>
                             <div class="h-service-content wow fadeInUp">
-                                <h3>CHECK FORUM
+                                <h3>HỖ TRỢ ONLINE
                                 </h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim  laborum.
+                                    Bạn không muốn chờ lâu? Hãy dùng chức năng chat online của công ty. Chúc bạn một ngày vui vẻ.
                  
                                     <br />
                                     <a href="#">Learn more
@@ -571,7 +568,7 @@
         <div class="container">
             <div class="row mar-b-50 our-clients">
                 <div class="col-md-3">
-                    <h2>Liên Kết Trường
+                    <h2>Các Trường Liên Kết
                     </h2>
                     <p>
                         Qua nhiều năm trong nghề, chúng tôi đã có được sự tin tưởng và liên kết được nhiều trường trên nhiều nước để tạo điều kiện tốt nhất cho khách hàng của chúng tôi.

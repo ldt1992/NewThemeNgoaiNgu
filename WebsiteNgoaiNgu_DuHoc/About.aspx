@@ -45,6 +45,7 @@
                                     <div class="carousel-caption">
                                         <p>
                                             Lorem ipsum dolor sit amet.
+                                       
                                         </p>
                                     </div>
                                 </div>
@@ -53,6 +54,7 @@
                                     <div class="carousel-caption">
                                         <p>
                                             Blanditiis praesentium voluptatum
+                                       
                                         </p>
                                     </div>
                                 </div>
@@ -61,6 +63,7 @@
                                     <div class="carousel-caption">
                                         <p>
                                             Blanditiis praesentium voluptatum
+                                       
                                         </p>
                                     </div>
                                 </div>
@@ -79,6 +82,7 @@
 
                     <p>
                         Aenean nibh ante, lacinia non tincidunt nec, lobortis ut tellus. Sed in porta diam. Suspendisse potenti. Donec luctus ullamcorper nulla. Duis nec velit odio.Suspendisse potenti. Donec luctus ullamcorper nulla. Duis nec velit odio.
+                   
                     </p>
                     <ul class="list-unstyled">
                         <li>
@@ -115,6 +119,7 @@
                     <blockquote>
                         <p>
                             Đem đến những gì tốt nhất cho các em là mục tiêu hàng đầu của chúng tôi.
+                       
                         </p>
                         <small>CEO Nguyễn Tiến Sơn
                         </small>
@@ -125,56 +130,21 @@
                 <div class="hiring">
                     <h2 class="wow flipInX">CÔNG TY TUYỂN DỤNG
                     </h2>
-                    <div class="col-lg-6 col-sm-6 about-hiring">
-                        <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
-                            <i class="fa fa-user"></i>
-                        </div>
-                        <div class="content">
-                            <h3 class="title wow flipInX">Nhân Viên Marketing
+                    <!-- Tuyển Dụng-->
+                    <asp:Repeater ID="rpTuyenDung" runat="server">
+                        <ItemTemplate>
+                            <div class="col-lg-6 col-sm-6 about-hiring">
+                                <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
+                                    <i class="fa fa-user"></i>
+                                </div>
+                                <div class="content">
+                                    <h3 class="title wow flipInX"><%# Eval("PostTitle") %>
                             </h3>
-                            <p>
-                                Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-sm-6 about-hiring">
-                        <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".3s">
-                            <i class="fa fa-user"></i>
-                        </div>
-                        <div class="content">
-                            <h3 class="title wow flipInX">Nhân Viên Hồ Sơ
-                            </h3>
-                            <p>
-                                Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 col-sm-6 about-hiring">
-                        <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".5s">
-                            <i class="fa fa-user"></i>
-                        </div>
-                        <div class="content">
-                            <h3 class="title wow flipInX">Giáo Viên Tiếng Anh Du Học
-                            </h3>
-                            <p>
-                                Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-sm-6 about-hiring">
-                        <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".7s">
-                            <i class="fa fa-user"></i>
-                        </div>
-                        <div class="content">
-                            <h3 class="title wow flipInX">Nhân Viên Tư Vấn Khách Hàng
-                            </h3>
-                            <p>
-                                Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
-                            </p>
-                        </div>
-                    </div>
-
+                                    <p><%# Eval("MetaDescription") %></p>
+                                </div>
+                            </div>
+                        </ItemTemplate>
+                    </asp:Repeater>
                 </div>
             </div>
         </div>
@@ -199,6 +169,7 @@
                                             <div class="about-testimonial-content">
                                                 <p class="about-testimonial-quote">
                                                     Donec ut purus sed tortor malesuada venenatis eget eget lorem. Nullam tempor lectus a ligula lobortis pretium. Donec ut purus sed tortor malesuada venenatis eget eget lorem.
+                                               
                                                 </p>
                                             </div>
                                         </li>
@@ -213,6 +184,7 @@
                                             <div class="about-testimonial-content">
                                                 <p class="about-testimonial-quote">
                                                     Pellentesque et pulvinar enim. Quisque at tempor ligula. Maecenas augue ante, euismod vitae egestas sit amet, accumsan eu nulla. Nullam tempor lectus a ligula lobortis pretium. Donec ut purus sed tortor malesuada venenatis eget eget lorem.
+                                               
                                                 </p>
                                             </div>
                                         </li>
@@ -230,6 +202,7 @@
                             <div class="skill_bar_progress skill_one">
                                 <p>
                                     Web Design : 60% Complete
+                               
                                 </p>
                             </div>
                         </div>
@@ -238,6 +211,7 @@
                             <div class="skill_bar_progress skill_two">
                                 <p>
                                     Html/CSS : 90% Complete
+                               
                                 </p>
                             </div>
                         </div>
@@ -246,6 +220,7 @@
                             <div class="skill_bar_progress skill_three">
                                 <p>
                                     Wordpress : 70% Complete
+                               
                                 </p>
                             </div>
                         </div>
@@ -254,6 +229,7 @@
                             <div class="skill_bar_progress skill_four">
                                 <p>
                                     Graphic Design : 55% Complete
+                               
                                 </p>
                             </div>
                         </div>
@@ -277,6 +253,7 @@
                                 </h4>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit
+                               
                                 </p>
                                 <div class="team-social-link">
                                     <a href="#">
@@ -310,6 +287,7 @@
                                 </h4>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit
+                               
                                 </p>
                                 <div class="team-social-link">
                                     <a href="#">
@@ -343,6 +321,7 @@
                                 </h4>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit
+                               
                                 </p>
                                 <div class="team-social-link">
                                     <a href="#">
@@ -376,6 +355,7 @@
                                 </h4>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit
+                               
                                 </p>
                                 <div class="team-social-link">
                                     <a href="#">
