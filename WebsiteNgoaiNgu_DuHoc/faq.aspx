@@ -7,13 +7,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-sm-4">
-                        <h1>FAQs</h1>
+                        <h1>Hỏi - Đáp</h1>
                     </div>
                     <div class="col-lg-8 col-sm-8">
                         <ol class="breadcrumb pull-right">
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Pages</a></li>
-                            <li class="active">FAQ</li>
+                            <li><a href="#">Trang Chủ</a></li>
+                            <li><a href="#">Chuyên Mục</a></li>
+                            <li class="active">Hỏi - Đáp</li>
                         </ol>
                     </div>
                 </div>
@@ -26,14 +26,12 @@
 
             <div class="container">
 
-
-
                 <div class="row">
 
                     <div class="col-md-10 col-md-offset-1 mar-b-30">
 
                         <div id="heading">
-                            <h1 class="wow flipInX">F.A.Q.</h1>
+                            <h1 class="wow flipInX">HỎI - ĐÁP</h1>
                             <p class="lead wow fadeIn">You have a question? Someone else might have had the exact same one. Let's find out!</p>
                         </div>
 
@@ -283,21 +281,21 @@
                 <div class="row">
 
                     <div class="col-md-6">
-                        <p class="lead wow fadeInLeft">Stay in the loop with our newsletter!</p>
+                        <p class="lead wow fadeInLeft">Để nhận tin tức, học bổng mới nhất</p>
                     </div>
 
                     <div class="col-md-6">
 
                         <!--////////// Newsletter Form //////////-->
-                        <form id="newsletter-signup">
+                        <div id="newsletter-signup">
                             <div class="input-group wow fadeInRight">
-                                <input type="text" name="e-mail" id="e-mail" class="form-control newsletter-input">
+                                <input type="text" name="e-mail" id="e-mail" class="form-control newsletter-input" />
                                 <span class="input-group-btn">
-                                    <button class="btn btn-inverse btn-hg" type="submit" name="submit">Sign Up</button>
+                                    <button class="btn btn-inverse btn-hg" type="submit" name="submit">Gửi</button>
                                 </span>
                             </div>
                             <!-- /input-group -->
-                        </form>
+                        </div>
                         <!--////////// end of Newsletter Form ///////////-->
 
                         <div id="error-info"></div>
@@ -317,10 +315,9 @@
         <div class="container">
             <div class="row mar-b-50 our-clients">
                 <div class="col-md-3">
-                    <h2><a href="#">Our Clients</a></h2>
+                    <h2><a href="#">LIÊN KẾT TRƯỜNG</a></h2>
                     <p>
-                        Lorem dipsum folor margade sitede lametep eiusmod psumquis dolore.Margade sitede lametep eiusmod.
-                    lametep eiusmod psumquis dolore.
+                        Qua nhiều năm trong nghề, chúng tôi đã có được sự tin tưởng và liên kết được nhiều trường trên nhiều nước để tạo điều kiện tốt nhất cho khách hàng của chúng tôi.
                     </p>
                 </div>
                 <div class="col-md-9">

@@ -10,20 +10,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-sm-4">
-                        <h1>About us
+                        <h1>VỀ CÔNG TY
                         </h1>
                     </div>
                     <div class="col-lg-8 col-sm-8">
                         <ol class="breadcrumb pull-right">
                             <li>
-                                <a href="#">Home
+                                <a href="Default.aspx">Trang Chủ
                                 </a>
                             </li>
                             <li>
-                                <a href="#">Pages
+                                <a href="#">Chuyên Mục
                                 </a>
                             </li>
-                            <li class="active">About
+                            <li class="active">Về Công Ty
                             </li>
                         </ol>
                     </div>
@@ -41,7 +41,7 @@
                             <!-- Carousel items -->
                             <div class="carousel-inner">
                                 <div class="active item">
-                                    <img src="img/service3.jpg" alt="">
+                                    <img src="img/service3.jpg" alt="" />
                                     <div class="carousel-caption">
                                         <p>
                                             Lorem ipsum dolor sit amet.
@@ -49,7 +49,7 @@
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img src="img/service2.jpg" alt="">
+                                    <img src="img/service2.jpg" alt="" />
                                     <div class="carousel-caption">
                                         <p>
                                             Blanditiis praesentium voluptatum
@@ -57,7 +57,7 @@
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img src="img/service5.jpg" alt="">
+                                    <img src="img/service5.jpg" alt="" />
                                     <div class="carousel-caption">
                                         <p>
                                             Blanditiis praesentium voluptatum
@@ -114,23 +114,23 @@
                     </ul>
                     <blockquote>
                         <p>
-                            Award winning digital agency. We bring a personal and effective approach to every project we work on, which is why.
+                            Đem đến những gì tốt nhất cho các em là mục tiêu hàng đầu của chúng tôi.
                         </p>
-                        <small>CEO Jack Bour
+                        <small>CEO Nguyễn Tiến Sơn
                         </small>
                     </blockquote>
                 </div>
             </div>
             <div class="row">
                 <div class="hiring">
-                    <h2 class="wow flipInX">we are hiring
+                    <h2 class="wow flipInX">CÔNG TY TUYỂN DỤNG
                     </h2>
                     <div class="col-lg-6 col-sm-6 about-hiring">
                         <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
                             <i class="fa fa-user"></i>
                         </div>
                         <div class="content">
-                            <h3 class="title wow flipInX">iOS / Mac OS Developer
+                            <h3 class="title wow flipInX">Nhân Viên Marketing
                             </h3>
                             <p>
                                 Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
@@ -142,7 +142,7 @@
                             <i class="fa fa-user"></i>
                         </div>
                         <div class="content">
-                            <h3 class="title wow flipInX">Frontend Developer
+                            <h3 class="title wow flipInX">Nhân Viên Hồ Sơ
                             </h3>
                             <p>
                                 Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
@@ -155,7 +155,7 @@
                             <i class="fa fa-user"></i>
                         </div>
                         <div class="content">
-                            <h3 class="title wow flipInX">Rails Developer
+                            <h3 class="title wow flipInX">Giáo Viên Tiếng Anh Du Học
                             </h3>
                             <p>
                                 Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
@@ -167,7 +167,7 @@
                             <i class="fa fa-user"></i>
                         </div>
                         <div class="content">
-                            <h3 class="title wow flipInX">PHP Developer
+                            <h3 class="title wow flipInX">Nhân Viên Tư Vấn Khách Hàng
                             </h3>
                             <p>
                                 Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.

@@ -59,17 +59,17 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="Index.aspx">A<span>cme</span></a>
+                        <a class="navbar-brand" href="Default.aspx">A<span>cme</span></a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
                             <li class="dropdown">
                                 <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown"
-                                    data-toggle="dropdown" href="index.html">Home <i class="fa fa-angle-down"></i>
+                                    data-toggle="dropdown" href="Default.aspx">Trang Chủ <i class="fa fa-angle-down"></i>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a href="Index.aspx">Home Parallax</a>
+                                        <a href="Default.aspx">Home Parallax</a>
                                     </li>
                                     <li>
                                         <a href="Index1.aspx">Home Seq-slider1</a>
@@ -125,17 +125,17 @@
                             </li>
                             <li class="dropdown">
                                 <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown"
-                                    data-toggle="dropdown" href="#">Pages <i class="fa fa-angle-down"></i>
+                                    data-toggle="dropdown" href="#">Chuyên Mục <i class="fa fa-angle-down"></i>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a href="About.aspx">About</a>
+                                        <a href="About.aspx">Về Công Ty</a>
                                     </li>
                                     <li>
                                         <a href="Error404.aspx">404 page</a>
                                     </li>
                                     <li>
-                                        <a href="career.aspx">career</a>
+                                        <a href="career.aspx">Tuyển Dụng</a>
                                     </li>
                                     <li>
                                         <a href="login.aspx">Login</a>
@@ -144,7 +144,7 @@
                                         <a href="registration.aspx">Registration</a>
                                     </li>
                                     <li>
-                                        <a href="faq.aspx">FAQ</a>
+                                        <a href="faq.aspx">HỎI - ĐÁP</a>
                                     </li>
                                     <li class="dropdown-submenu">
                                         <a href="#" tabindex="-1">Pricing table</a>
@@ -208,7 +208,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="Contact.aspx">Contact</a>
+                                <a href="Contact.aspx">Liên Hệ</a>
                             </li>
                             <li>
                                 <input class="form-control search" placeholder=" Search" type="text" /></li>
@@ -224,14 +224,14 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3 col-sm-3 address wow fadeInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                            <h1>contact info
+                            <h1>Thông Tin Liên Hệ
                             </h1>
                             <address>
-                                <p><i class="fa fa-home pr-10"></i>Address: No.XXXXXX street</p>
-                                <p><i class="fa fa-globe pr-10"></i>Mars city, Country </p>
+                                <p><i class="fa fa-home pr-10"></i>Địa Chỉ: 253B Thạch Lam, P.Phú Thạnh, Q.Tân Phú</p>
+                                <p><i class="fa fa-globe pr-10"></i>TP. Hồ Chí Minh, Việt Nam </p>
                                 <p><i class="fa fa-mobile pr-10"></i>Mobile : (123) 456-7890 </p>
                                 <p><i class="fa fa-phone pr-10"></i>Phone : (123) 456-7890 </p>
-                                <p><i class="fa fa-envelope pr-10"></i>Email :   <a href="javascript:;">support@example.com</a></p>
+                                <p><i class="fa fa-envelope pr-10"></i>Email :   <a href="javascript:;">support@kus.edu.vn</a></p>
                             </address>
                         </div>
                         <div class="col-lg-3 col-sm-3 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".3s">
@@ -263,32 +263,32 @@
                         </div>
                         <div class="col-lg-3 col-sm-3">
                             <div class="page-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".5s">
-                                <h1>Our Company
+                                <h1>CÔNG TY
                                 </h1>
                                 <ul class="page-footer-list">
                                     <li>
                                         <i class="fa fa-angle-right"></i>
-                                        <a href="About.aspx">About Us</a>
+                                        <a href="About.aspx">Giới Thiệu</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-angle-right"></i>
-                                        <a href="faq.html">Support</a>
+                                        <a href="faq.aspx">Hỗ Trợ</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-angle-right"></i>
-                                        <a href="service.html">Service</a>
+                                        <a href="service.aspx">Dịch Vụ</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-angle-right"></i>
-                                        <a href="privacy-policy.html">Privacy Policy</a>
+                                        <a href="privacy.aspx">Chính Sách</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-angle-right"></i>
-                                        <a href="career.html">We are Hiring</a>
+                                        <a href="career.aspx">Tuyển Dụng</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-angle-right"></i>
-                                        <a href="terms.html">Term & condition</a>
+                                        <a href="terms.aspx">Term & condition</a>
                                     </li>
                                 </ul>
                             </div>
@@ -325,7 +325,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="copyright">
-                                <p>&copy; Copyright - Acme Theme by cosmic.</p>
+                                <p>&copy; Công Ty Cổ Phần Đỉnh Cao Châu Mỹ</p>
                             </div>
                         </div>
                     </div>
