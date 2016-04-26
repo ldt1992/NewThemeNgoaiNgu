@@ -1,33 +1,48 @@
 ﻿<%@ Application Language="C#" %>
+<%@ Import Namespace="System.Web.Routing" %>
 
-<script runat="server">
+<script RunAt="server">
 
-    //void RegisterRoutes(RouteCollection routes)
-    //{
-    //    //Du Học
-    //    //routes.MapPageRoute("Home", "trang-chu", "~/Default.aspx");
-    //    //routes.MapPageRoute("About", "gioi-thieu", "~/GioiThieu.aspx");
-    //    //routes.MapPageRoute("Contact", "lien-he", "~/LienHe.aspx");
-    //    //routes.MapPageRoute("Category", "danh-muc-{id}", "~/DanhMuc.aspx");
-    //    //routes.MapPageRoute("ListBlogs", "danh-sach-truong-{id}", "~/ListBlogs.aspx");
-    //    //routes.MapPageRoute("BlogDetail", "{title}-{id}", "~/Blog_Detail.aspx");
+    void RegisterRoutes(RouteCollection routes)
+    {
+        //Du Học
+        routes.MapPageRoute("Home", "trang-chu", "~/Default.aspx");
+        routes.MapPageRoute("About", "gioi-thieu", "~/About.aspx");
+        routes.MapPageRoute("MenuCon", "hoidap-{id}", "~/faq.aspx");
+        routes.MapPageRoute("HoiDap", "hoidap", "~/faq.aspx");
+        routes.MapPageRoute("TuyenDung", "tuyendung-{id}", "~/TuyenDung.aspx");
+        routes.MapPageRoute("LinkDuHoc", "duhoc-{id}", "~/Blog-two-col.aspx");
+        routes.MapPageRoute("LinkDuLich", "dulich-{id}", "~/Blog-two-col.aspx");
+        routes.MapPageRoute("LinkDinhCu", "dinhcu-{id}", "~/Blog-two-col.aspx");
+        routes.MapPageRoute("Contact", "lien-he", "~/Contact.aspx");
 
-    //    //Ngoại ngữ
-    //    //routes.MapPageRoute("HomeNgoaiNgu", "NgoaiNgu/trang-chu", "~/NgoaiNgu/HomePage.aspx");
-    //    //routes.MapPageRoute("AboutNgoaiNgu", "NgoaiNgu/gioi-thieu", "~/NgoaiNgu/GioiThieu.aspx");
-    //    //routes.MapPageRoute("ContactNgoaiNgu", "NgoaiNgu/lien-he", "~/NgoaiNgu/LienHe.aspx");
-    //    //routes.MapPageRoute("KhaiGiangNgoaiNgu", "NgoaiNgu/lich-khai-giang", "~/NgoaiNgu/LichKhaiGiang.aspx");
-    //    //routes.MapPageRoute("ChuongTrinhHocNgoaiNgu", "NgoaiNgu/chuong-trinh-hoc", "~/NgoaiNgu/ChuongTrinhHoc.aspx");
-    //    //routes.MapPageRoute("TuyenDungNgoaiNgu", "NgoaiNgu/tuyen-dung", "~/NgoaiNgu/TuyenDung.aspx");
-    //    //routes.MapPageRoute("GiaoVienNgoaiNgu", "NgoaiNgu/nhom-giao-vien", "~/NgoaiNgu/ListTeachers.aspx");
-    //    //routes.MapPageRoute("ChiTietGiaoVienNgoaiNgu", "NgoaiNgu/giao-vien-{id}", "~/NgoaiNgu/GiaoVien.aspx");
-    //    //routes.MapPageRoute("FAQsNgoaiNgu", "NgoaiNgu/hoidap", "~/NgoaiNgu/FAQs.aspx");
-    //    //routes.MapPageRoute("Video","NgoaiNgu/video","~/NgoaiNgu/VideoLopHoc.aspx");
-    //}
+        //Chuyển tiêu đề tiếng việt có dấu sang không dấu dạng URL abc-def-ghi
+        //public string XoaKyTuDacBiet(string str)
+        //{
+        //    string title_url = "";
+        //    str = str.Replace(" ", "-");
+        //    Regex regex = new Regex("\\p{IsCombiningDiacriticalMarks}+");
+        //    string temp = str.Normalize(NormalizationForm.FormD);
+        //    title_url = regex.Replace(temp, String.Empty).Replace('\u0111', 'd').Replace('\u0110', 'D');
+        //    return title_url;
+        //}
+
+        //Ngoại ngữ
+        //routes.MapPageRoute("HomeNgoaiNgu", "NgoaiNgu/trang-chu", "~/NgoaiNgu/HomePage.aspx");
+        //routes.MapPageRoute("AboutNgoaiNgu", "NgoaiNgu/gioi-thieu", "~/NgoaiNgu/GioiThieu.aspx");
+        //routes.MapPageRoute("ContactNgoaiNgu", "NgoaiNgu/lien-he", "~/NgoaiNgu/LienHe.aspx");
+        //routes.MapPageRoute("KhaiGiangNgoaiNgu", "NgoaiNgu/lich-khai-giang", "~/NgoaiNgu/LichKhaiGiang.aspx");
+        //routes.MapPageRoute("ChuongTrinhHocNgoaiNgu", "NgoaiNgu/chuong-trinh-hoc", "~/NgoaiNgu/ChuongTrinhHoc.aspx");
+        //routes.MapPageRoute("TuyenDungNgoaiNgu", "NgoaiNgu/tuyen-dung", "~/NgoaiNgu/TuyenDung.aspx");
+        //routes.MapPageRoute("GiaoVienNgoaiNgu", "NgoaiNgu/nhom-giao-vien", "~/NgoaiNgu/ListTeachers.aspx");
+        //routes.MapPageRoute("ChiTietGiaoVienNgoaiNgu", "NgoaiNgu/giao-vien-{id}", "~/NgoaiNgu/GiaoVien.aspx");
+        //routes.MapPageRoute("FAQsNgoaiNgu", "NgoaiNgu/hoidap", "~/NgoaiNgu/FAQs.aspx");
+        //routes.MapPageRoute("Video","NgoaiNgu/video","~/NgoaiNgu/VideoLopHoc.aspx");
+    }
 
     void Application_Start(object sender, EventArgs e)
     {
-        //RegisterRoutes(RouteTable.Routes);
+        RegisterRoutes(RouteTable.Routes);
         // Code that runs on application startup
 
     }

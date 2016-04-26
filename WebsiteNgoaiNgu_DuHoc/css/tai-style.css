@@ -1,3 +1,15 @@
-﻿#portfolio-3-col .element-item{
-    padding-bottom:3%;
+#portfolio-3-col .element-item {
+  padding-bottom: 3%;
+}
+div.breadcrumbs ol.breadcrumb li.active {
+  text-transform: capitalize;
+}
+#LienHe .contact-map {
+  height: 500px;
+}
+#LienHe .contact-map .embed-responsive {
+  height: 500px;
+}
+#LienHe .contact-map .embed-responsive iframe {
+  height: 500px;
 }

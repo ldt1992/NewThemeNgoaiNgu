@@ -131,7 +131,7 @@
                     <h2 class="wow flipInX">CÔNG TY TUYỂN DỤNG
                     </h2>
                     <!-- Tuyển Dụng-->
-                    <asp:Repeater ID="rpTuyenDung" runat="server">
+                    <%--<asp:Repeater ID="rpTuyenDung" runat="server">
                         <ItemTemplate>
                             <div class="col-lg-6 col-sm-6 about-hiring">
                                 <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
@@ -144,7 +144,66 @@
                                 </div>
                             </div>
                         </ItemTemplate>
-                    </asp:Repeater>
+                    </asp:Repeater>--%>
+                    <!-- End Tuyển Dụng-->
+
+                    <div class="col-lg-6 col-sm-6 about-hiring">
+                    <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
+                        <i class="fa fa-user">
+                        </i>
+                    </div>
+                    <div class="content">
+                        <h3 class="title wow flipInX">
+                            iOS / Mac OS Developer
+                        </h3>
+                        <p>
+                            Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-sm-6 about-hiring">
+                    <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".3s">
+                        <i class="fa fa-user">
+                        </i>
+                    </div>
+                    <div class="content">
+                        <h3 class="title wow flipInX">
+                            Frontend Developer
+                        </h3>
+                        <p>
+                            Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-sm-6 about-hiring">
+                    <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".5s">
+                        <i class="fa fa-user">
+                        </i>
+                    </div>
+                    <div class="content">
+                        <h3 class="title wow flipInX">
+                            Rails Developer
+                        </h3>
+                        <p>
+                            Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-sm-6 about-hiring">
+                    <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1s" data-wow-delay=".7s">
+                        <i class="fa fa-user">
+                        </i>
+                    </div>
+                    <div class="content">
+                        <h3 class="title wow flipInX">
+                            PHP Developer
+                        </h3>
+                        <p>
+                            Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium, eu tincidunt nulla molestie pulvinar posuere.
+                        </p>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>

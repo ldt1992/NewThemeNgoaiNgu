@@ -2892,8 +2892,8 @@ p { text-align: left }
     width: 40px;
     height: 40px;
     display: inline-block;
-    border-radius: 50px;
-    border: 1px solid #48cfad;
+    /*border-radius: 50px;*/
+    /*border: 1px solid #48cfad;*/
     line-height: 40px;
 }
 .border-one {

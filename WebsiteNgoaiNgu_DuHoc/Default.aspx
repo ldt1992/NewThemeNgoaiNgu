@@ -99,7 +99,7 @@
             <div class="row mar-b-50">
                 <div class="col-md-12">
                     <div class="text-center feature-head wow fadeInDown">
-                        <h1 class="">CHÀO MỪNG TỚI CÔNG TY DU HỌC ĐỈNH CAO CHÂU MỸ
+                        <h1 class="">CHÚNG TÔI LÀ CÔNG TY CỔ PHẦN ĐỈNH CAO CHÂU MỸ
                         </h1>
 
                     </div>
@@ -112,27 +112,22 @@
                                     <img src="img/1.png" alt="" width="100" height="100" />
                                 </em>
                                 <h4>
-                                    <b>Multipurpose Template</b>
+                                    <b>Tầm Nhìn</b>
                                 </h4>
                             </div>
-                            <p class="text-center">
-                                Lorem ipsum dolor sit amet, dolore eiusmod quis tempor incididunt ut et dolore Ut veniam unde nostrudlaboris.
-                           
-                            </p>
+                            <p class="text-center">Phấn đấu đưa công ty Đỉnh Cao Châu Mỹ trở thành công ty hàng đầu Việt Nam về hoạt động du học - du lịch - định cư.</p>
                         </div>
                         <div class="col-md-4 col-sm-4 text-center wow fadeInUp">
                             <div class="feature-box-heading">
                                 <em>
                                     <img src="img/2.png" alt="" width="100" height="100" />
+                                    <%--<i class="fa fa-4x fa-heart"></i>--%>
                                 </em>
                                 <h4>
-                                    <b>Well Documented</b>
+                                    <b>Giá Trị Cốt Lõi</b>
                                 </h4>
                             </div>
-                            <p class="text-center">
-                                Lorem ipsum dolor sit amet, dolore eiusmod quis tempor incididunt ut et dolore Ut veniam unde nostrudlaboris.
-                           
-                            </p>
+                            <p class="text-center">Niềm tin của khách hàng khi gửi trọn ở chúng tôi là giá trị cốt lõi mà chúng tôi hướng đến.</p>
                         </div>
                         <div class="col-md-4 col-sm-4 text-center wow fadeInUp">
                             <div class="feature-box-heading">
@@ -140,13 +135,10 @@
                                     <img src="img/3.png" alt="" width="100" height="100" />
                                 </em>
                                 <h4>
-                                    <b>Responsive Design</b>
+                                    <b>Đảm Bảo Chất Lượng</b>
                                 </h4>
                             </div>
-                            <p class="text-center">
-                                Lorem ipsum dolor sit amet, dolore eiusmod quis tempor incididunt ut et dolore Ut veniam unde nostrudlaboris.
-                           
-                            </p>
+                            <p class="text-center">Với đội ngũ làm việc chuyên nghiệp, công ty luôn làm hài lòng khi khách hàng tới công ty.</p>
                         </div>
                     </div>
 
@@ -183,11 +175,12 @@
                        
                         </p>
                         <hr />
-                        <a href="javascript:;" class="btn btn-purchase">Purchase now
+                        <a href="javascript:;" class="btn btn-purchase">Bấm Để Xem
                         </a>
                     </div>
                 </div>
-                <br /><br />
+                <br />
+                <br />
                 <!-- Du Lịch -->
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 wow fadeInLeft">
@@ -210,14 +203,15 @@
                        
                         </p>
                         <hr />
-                        <a href="javascript:;" class="btn btn-purchase">Purchase now
+                        <a href="javascript:;" class="btn btn-purchase">Bấm Để Xem
                         </a>
                     </div>
                     <div class="col-lg-6 col-sm-6 text-center wow fadeInRight">
                         <img src="img/du-lich.png" alt="" class="img-thumbnail" />
                     </div>
                 </div>
-                <br /><br />
+                <br />
+                <br />
                 <!-- Định Cư -->
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 text-center wow fadeInLeft">
@@ -243,7 +237,7 @@
                        
                         </p>
                         <hr />
-                        <a href="javascript:;" class="btn btn-purchase">Purchase now
+                        <a href="javascript:;" class="btn btn-purchase">Bấm Để Xem
                         </a>
                     </div>
                 </div>
@@ -529,7 +523,7 @@
                                     Cập nhật những câu hỏi thường xuyên bao gồm nhiều vấn đề liên quan đến du học, định cư, du lịch.
                  
                                     <br />
-                                    <a href="faq.aspx">CLICK ĐỂ XEM
+                                    <a href="/hoidap">CLICK ĐỂ XEM
                                     </a>
                                 </p>
                             </div>

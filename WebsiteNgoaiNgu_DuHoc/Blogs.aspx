@@ -104,13 +104,13 @@
                             </div>
                             <div class="col-lg-10 col-sm-10">
                                 <h1>
-                                    <a href="blog-detail.html">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
+                                    <a href="blog-detail.aspx">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
                                     </a>
                                 </h1>
                                 <p>
                                     Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
                                 </p>
-                                <a href="blog-detail.html" class="btn btn-primary">Continue Reading
+                                <a href="blog-detail.aspx" class="btn btn-primary">Continue Reading
                                 </a>
                             </div>
                         </div>
@@ -185,13 +185,13 @@
                             </div>
                             <div class="col-lg-10 col-sm-10">
                                 <h1>
-                                    <a href="blog-detail.html">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
+                                    <a href="blog-detail.aspx">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
                                     </a>
                                 </h1>
                                 <p>
                                     Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
                                 </p>
-                                <a href="blog-detail.html" class="btn btn-primary">Continue Reading
+                                <a href="blog-detail.aspx" class="btn btn-primary">Continue Reading
                                 </a>
                             </div>
                         </div>
@@ -266,13 +266,13 @@
                             </div>
                             <div class="col-lg-10 col-sm-10">
                                 <h1>
-                                    <a href="blog-detail.html">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
+                                    <a href="blog-detail.aspx">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
                                     </a>
                                 </h1>
                                 <p>
                                     Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
                                 </p>
-                                <a href="blog-detail.html" class="btn btn-primary">Continue Reading
+                                <a href="blog-detail.aspx" class="btn btn-primary">Continue Reading
                                 </a>
                             </div>
                         </div>
@@ -347,13 +347,13 @@
                             </div>
                             <div class="col-lg-10 col-sm-10">
                                 <h1>
-                                    <a href="blog-detail.html">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
+                                    <a href="blog-detail.aspx">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
                                     </a>
                                 </h1>
                                 <p>
                                     Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
                                 </p>
-                                <a href="blog-detail.html" class="btn btn-primary">Continue Reading
+                                <a href="blog-detail.aspx" class="btn btn-primary">Continue Reading
                                 </a>
                             </div>
                         </div>
@@ -428,13 +428,13 @@
                             </div>
                             <div class="col-lg-10 col-sm-10">
                                 <h1>
-                                    <a href="blog-detail.html">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
+                                    <a href="blog-detail.aspx">Suspendisse dignissim in sem eget pulvinar. Mauris aliquam nulla at libero pretium.
                                     </a>
                                 </h1>
                                 <p>
                                     Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
                                 </p>
-                                <a href="blog-detail.html" class="btn btn-primary">Continue Reading
+                                <a href="blog-detail.aspx" class="btn btn-primary">Continue Reading
                                 </a>
                             </div>
                         </div>
