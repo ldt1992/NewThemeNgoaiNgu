@@ -11,10 +11,11 @@
         routes.MapPageRoute("MenuCon", "hoidap-{id}", "~/faq.aspx");
         routes.MapPageRoute("HoiDap", "hoidap", "~/faq.aspx");
         routes.MapPageRoute("TuyenDung", "tuyendung-{id}", "~/TuyenDung.aspx");
+        routes.MapPageRoute("TuyenDung2", "tuyendung", "~/TuyenDung.aspx");
         routes.MapPageRoute("LinkDuHoc", "duhoc-{id}", "~/Blog-two-col.aspx");
         routes.MapPageRoute("LinkDuLich", "dulich-{id}", "~/Blog-two-col.aspx");
         routes.MapPageRoute("LinkDinhCu", "dinhcu-{id}", "~/Blog-two-col.aspx");
-        routes.MapPageRoute("Contact", "lien-he", "~/Contact.aspx");
+        routes.MapPageRoute("Contact", "tu-van", "~/Contact.aspx");
 
         //Chuyển tiêu đề tiếng việt có dấu sang không dấu dạng URL abc-def-ghi
         //public string XoaKyTuDacBiet(string str)

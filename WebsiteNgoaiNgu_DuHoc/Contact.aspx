@@ -13,13 +13,9 @@
                     <div class="col-lg-8 col-sm-8">
                         <ol class="breadcrumb pull-right">
                             <li>
-                                <a href="#">Trang Chủ
+                                <a href="/trang-chu">Trang Chủ
                                 </a>
                             </li>
-                            <%--<li>
-                                <a href="#">Pages
-                                </a>
-                            </li>--%>
                             <li class="active">Liên Hệ
                             </li>
                         </ol>
@@ -29,12 +25,8 @@
         </div>
         <!--breadcrumbs end-->
 
-
-
         <!--container start-->
         <div class="container">
-
-
             <div class="row">
                 <div class="col-lg-5 col-sm-5 address">
                     <section class="contact-infos">
@@ -88,36 +80,28 @@
                             <div class="form-group">
                                 <label for="name">
                                     Họ Tên
-                               
                                 </label>
-                                <input type="text" placeholder="" id="name" class="form-control" />
+                                <asp:TextBox ID="txtFullName" runat="server" CssClass="form-control"></asp:TextBox>
                             </div>
                             <div class="form-group">
                                 <label for="email">
                                     Email
-                               
                                 </label>
-                                <input type="text" placeholder="" id="email" class="form-control" />
+                                <asp:TextBox ID="txtEmail" runat="server" CssClass="form-control"></asp:TextBox>
                             </div>
                             <div class="form-group">
                                 <label for="phone">
                                     Số Điện Thoại
-                               
                                 </label>
-                                <input type="text" id="phone" class="form-control" />
+                                <asp:TextBox ID="txtSoDienThoai" runat="server" CssClass="form-control"></asp:TextBox>
                             </div>
                             <div class="form-group">
                                 <label for="phone">
                                     Lời Nhắn
-                               
                                 </label>
-                                <textarea placeholder="" rows="5" class="form-control">
-                </textarea>
+                                <asp:TextBox ID="txtMessage" runat="server" CssClass="form-control" TextMode="MultiLine"></asp:TextBox>
                             </div>
-                            <button class="btn btn-info" type="submit">
-                                Gửi
-                           
-                            </button>
+                            <asp:Button ID="btnGui" runat="server" Text="Gửi" CssClass="btn btn-info" OnClick="btnGui_Click" />
                         </div>
 
                     </div>
@@ -129,8 +113,6 @@
 
         <!--google map start-->
         <div class="contact-map">
-            <%--<div id="map-canvas" style="width: 100%; height: 400px">
-            </div>--%>
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15674.582115985468!2d106.6368306!3d10.8384154!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4b100e1c1c904877!2zMjMwIFBoYW4gSHV5IMONY2gsIFAuMTIsIFF14bqtbiBHw7IgVuG6pXAsIFRQLiBIQ00!5e0!3m2!1svi!2s!4v1461401286416" height="300" frameborder="0" style="border: 0" allowfullscreen></iframe>
             </div>

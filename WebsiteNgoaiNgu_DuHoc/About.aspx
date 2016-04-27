@@ -302,16 +302,17 @@
 
             <div class="row">
                 <div class="profile">
-                    <h2>OUR TEAM
+                    <h2>LÃNH ĐẠO CÔNG TY
                     </h2>
                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <div class="thumbnail wow fadeInUp" data-wow-delay=".1s">
-                            <img src="img/team/member1.jpg" alt="">
+                            <img src="img/team/member1.jpg" alt="" />
                             <div class="caption">
-                                <h4>Thumbnail label
+                                <h4>Nguyễn Tiến Sơn
                                 </h4>
+                                <p class="text-muted">Tổng Giám Đốc</p>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit
+                                    Công việc sao rồi mấy đệ. Mỗi lần nghe là mỗi lần sợ.
                                
                                 </p>
                                 <div class="team-social-link">
@@ -340,12 +341,13 @@
 
                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <div class="thumbnail wow fadeInUp" data-wow-delay=".3s">
-                            <img src="img/team/member2.jpg" alt="">
+                            <img src="img/team/member2.jpg" alt="" />
                             <div class="caption">
-                                <h4>Thumbnail label
+                                <h4>Nguyễn Thị Kim Anh
                                 </h4>
+                                <p class="text-muted">Phó Giám Đốc</p>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit
+                                    Em lên chị gặp xíu
                                
                                 </p>
                                 <div class="team-social-link">
@@ -374,12 +376,13 @@
 
                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <div class="thumbnail wow fadeInUp" data-wow-delay=".5s">
-                            <img src="img/team/member3.jpg" alt="">
+                            <img src="img/team/member3.jpg" alt="" />
                             <div class="caption">
-                                <h4>Thumbnail label
+                                <h4>Cao Văn Hoàng
                                 </h4>
+                                <p class="text-muted">Chủ Tịch HĐQT</p>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit
+                                    Mày đừng làm khó tao nha Tài (^_^).
                                
                                 </p>
                                 <div class="team-social-link">
@@ -408,12 +411,13 @@
 
                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <div class="thumbnail wow fadeInUp" data-wow-delay=".7s">
-                            <img src="img/team/member4.jpg" alt="">
+                            <img src="img/team/member4.jpg" alt="" />
                             <div class="caption">
-                                <h4>Thumbnail label
+                                <h4>Bùi Thị Hồng Cảm
                                 </h4>
+                                <p class="text-muted">Trưởng Phòng Nhân Sự Chuyên đi sinh sự</p>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit
+                                    Mình đâu có biết đâu (@_@)
                                
                                 </p>
                                 <div class="team-social-link">
