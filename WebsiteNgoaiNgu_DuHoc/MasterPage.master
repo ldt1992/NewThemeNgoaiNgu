@@ -305,11 +305,11 @@
                         </div>
                         <div class="col-lg-3 col-sm-3">
                             <div class="text-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".7s">
-                                <h1>SỨ MỆNH
+                                <h1>GIÁ TRỊ CỐT LÕI
                                 </h1>
-                                <p>
-                                    GOOD, PRO, BEST. GOOD, PRO, BEST. GOOD, PRO, BEST. GOOD, PRO, BEST.
-                                </p>
+                                <p><i class="fa fa-check fa-lg pr-10 text-success"></i>Chữ “Tâm” trong nghề, sự tận tâm trong từng công việc</p>
+                                <p><i class="fa fa-check fa-lg pr-10 text-success"></i>Sự uy tín với khách hàng</p>
+                                <p><i class="fa fa-check fa-lg pr-10 text-success"></i>Lòng nhiệt huyết , nổ lực vươn đến sự hoàn thiện </p>
                             </div>
                         </div>
                     </div>
@@ -343,6 +343,10 @@
             <!--small footer end-->
         </div>
     </form>
+
+    <!-- Start Subiz Chat-->
+    <script type='text/javascript'>window._sbzq || function (e) { e._sbzq = []; var t = e._sbzq; t.push(["_setAccount", 38851]); var n = e.location.protocol == "https:" ? "https:" : "http:"; var r = document.createElement("script"); r.type = "text/javascript"; r.async = true; r.src = n + "//static.subiz.com/public/js/loader.js"; var i = document.getElementsByTagName("script")[0]; i.parentNode.insertBefore(r, i) }(window);</script>
+    <!-- End Subiz Chat-->
 
     <!-- FB Fanpage Script-->
     <div id="fb-root"></div>

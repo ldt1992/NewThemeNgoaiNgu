@@ -467,7 +467,7 @@
 
         </section>
 
-        <section id="faq-other">
+        <%--<section id="faq-other">
             <div class="container">
                 <div class="row mar-b-30">
                     <div class="title text-center mar-b-30">
@@ -596,9 +596,9 @@
                 </div>
             </div>
 
-        </section>
+        </section>--%>
 
-        <div id="newsletter-faq">
+        <%--<div id="newsletter-faq">
 
 
             <div class="container">
@@ -633,7 +633,7 @@
             <!-- /container -->
 
 
-        </div>
+        </div>--%>
 
         <!--clients start-->
         <div class="container">

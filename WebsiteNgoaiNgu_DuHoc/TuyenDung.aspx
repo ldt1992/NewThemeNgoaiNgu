@@ -47,30 +47,21 @@
                 </div>
                 <hr />
                 <div class="row">
-                    <div class="col-md-6">
                         <!-- TUYỂN DỤNG-->
-                        <%--<asp:Repeater ID="rpTuyenDung1" runat="server">
+                        <asp:Repeater ID="rpTuyenDung1" runat="server">
                             <ItemTemplate>
-                                <div class="candidate wow fadeInLeft">
-                                    <h1><%# Eval("PostTitle") %></h1>
-                                    <p class="align-left">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
-                                    <h4>Requirements</h4>
-                                    <ul class="list-unstyled">
-                                        <li><i class="fa fa-angle-right pr-10"></i>Vestibulum auctor dapibus neque.</li>
-                                        <li><i class="fa fa-angle-right pr-10"></i>Lorem ipsum dolor sit amet adipiscing elit.</li>
-                                        <li><i class="fa fa-angle-right pr-10"></i>Aliquam tincidunt mauris eu risus.</li>
-                                        <li><i class="fa fa-angle-right pr-10"></i>Vestibulum auctor dapibus neque</li>
-                                        <li><i class="fa fa-angle-right pr-10"></i>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-                                        <li><i class="fa fa-angle-right pr-10"></i>Aliquam tincidunt mauris eu risus.</li>
-                                    </ul>
-                                    <div><%# Eval("PostContentVN") %></div>
-                                    <button class="btn btn-info">Gửi CV</button>
+                                <div class="col-md-6">
+                                    <div class="candidate wow fadeInLeft">
+                                        <h1><%# Eval("PostTitle") %></h1>
+                                        <div><%# Eval("PostContentVN") %></div>
+                                        <br />
+                                        <button class="btn btn-info">Gửi CV</button>
+                                    </div>
+                                    <hr />
                                 </div>
-                                <hr />
                             </ItemTemplate>
-                        </asp:Repeater>--%>
+                        </asp:Repeater>
                         <!-- END TUYỂN DỤNG-->
-                    </div>
                     <div class="col-md-6">
                         <!-- TUYỂN DỤNG-->
                         <%--<asp:Repeater ID="rpTuyenDung2" runat="server">
@@ -96,7 +87,7 @@
                         <!-- END TUYỂN DỤNG-->
                     </div>
 
-                    <div class="col-md-6">
+                    <%--<div class="col-md-6">
                         <div class="candidate wow fadeInLeft">
                             <h1>Technical Writter</h1>
                             <p class="align-left">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
@@ -159,11 +150,11 @@
                             <button class="btn btn-info">Apply</button>
                         </div>
                         <hr />
-                    </div>
+                    </div>--%>
                 </div>
                 <!-- career -->
-            </div>
-        </div>
+    </div>
+    </div>
         <!--container end-->
     </div>
 </asp:Content>

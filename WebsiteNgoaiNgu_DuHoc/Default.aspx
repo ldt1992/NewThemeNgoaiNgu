@@ -161,17 +161,12 @@
                         <hr />
                         <p>
                             <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantiu.
+                            Phó thủ tướng Nguyễn Thiện Nhân đã từng nói: "Thế kỷ 20 là thế kỷ các thế hệ cha ông giữ lấy đất nước này. Thế kỷ 21 các bạn phải nắm lấy vận mệnh đất nước, đưa đất nước đi lên. Niềm vui nhất đối với chúng tôi là khi mình nhắm mắt, mình tin rằng con cháu mình sẽ làm hay hơn mình. Chúng tôi đầu bạc hết rồi, điều chúng tôi muốn nói cuối cùng trong buổi hôm nay, các bạn là tương lai của đất nước, đừng để mất niềm tin đó trong cha mẹ, trong chúng tôi. Hãy tin rằng chúng tôi luôn dành cho các bạn tất cả lòng tin yêu".
                        
                         </p>
                         <p>
                             <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantiu.
-                       
-                        </p>
-                        <p>
-                            <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener.
+                            Có thể nói, du học chính là một trong những cách thức để các bạn trẻ ngày nay thực hiện được khát khao, hoài bão và sự trông cậy của thế hệ cha ông cũng như thực hiện được trọng trách của mình đối với tương lai đất nước.
                        
                         </p>
                         <hr />
@@ -189,17 +184,12 @@
                         <hr />
                         <p>
                             <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantiu.
+                            Du lịch ngày nay đã trở thành một trong những ngành dịch vụ có tốc độ tăng trưởng nhanh nhất trong nền kinh tế thế giới và làm tăng doanh thu toàn cầu.
                        
                         </p>
                         <p>
                             <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantiu.
-                       
-                        </p>
-                        <p>
-                            <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener.
+                            Đỉnh Cao Châu Mỹ của chúng tôi đã và đang góp phần đưa người Việt chạm đến được nhiều quốc gia và vùng lãnh thổ trên thế giới. Chúng tôi luôn tự hào về những gì chúng tôi đã đạt được trong quá khứ và hiện tại củng như là tương lai sắp tới.
                        
                         </p>
                         <hr />
@@ -223,17 +213,12 @@
                         <hr />
                         <p>
                             <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantiu.
+                            Với thực tế như hiện nay, tình trạng di dân đang khá phổ biến ở nhiều nơi trên thế giới và củng như ở việt nam. Số lượng hồ sơ càng ngày càng tăng lên rất là nhiều.
                        
                         </p>
                         <p>
                             <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantiu.
-                       
-                        </p>
-                        <p>
-                            <i class="fa fa-check fa-lg pr-10"></i>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener.
+                            Đỉnh Cao Châu Mỹ sẽ luôn đồng hành cùng các bạn trên mỗi chặn đường.
                        
                         </p>
                         <hr />

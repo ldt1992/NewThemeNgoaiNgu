@@ -13,3 +13,12 @@ div.breadcrumbs ol.breadcrumb li.active {
 #LienHe .contact-map .embed-responsive iframe {
   height: 500px;
 }
+div.navbar-header .navbar-brand img {
+  margin-top: -15%;
+}
+ul.navbar-nav {
+  padding: 1% 0;
+}
+ul.navbar-nav li a {
+  font-size: 150%;
+}

@@ -15,7 +15,6 @@ public partial class Blog_two_col : System.Web.UI.Page
         {
             LayTieuDe();
             LayListCountry();
-
             LayLoaiHinhDaoTao();
         }
     }
@@ -48,6 +47,4 @@ public partial class Blog_two_col : System.Web.UI.Page
     {
         LayLoaiHinhDaoTao();
     }
-
-    
 }

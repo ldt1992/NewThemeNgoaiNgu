@@ -30,8 +30,7 @@
             <div class="row">
                 <div class="col-lg-5 col-sm-5 address">
                     <section class="contact-infos">
-                        <h4 class="title custom-font text-black">ĐỊA CHỈ
-                        </h4>
+                        <h4 class="title custom-font text-black">ĐỊA CHỈ</h4>
                         <address>
                             253B Thạch Lam, P.Phú Thạnh, Q.Tân Phú
              
@@ -73,7 +72,7 @@
                     </section>
                 </div>
                 <div class="col-lg-7 col-sm-7 address">
-                    <h4>GỬI THÔNG TIN ĐỂ ĐƯỢC TƯ VẤN
+                    <h4>HÃY ĐỂ CHÚNG TÔI GỌI LẠI CHO BẠN 
                     </h4>
                     <div class="contact-form">
                         <div role="form">

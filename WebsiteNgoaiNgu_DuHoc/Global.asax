@@ -16,6 +16,7 @@
         routes.MapPageRoute("LinkDuLich", "dulich-{id}", "~/Blog-two-col.aspx");
         routes.MapPageRoute("LinkDinhCu", "dinhcu-{id}", "~/Blog-two-col.aspx");
         routes.MapPageRoute("Contact", "tu-van", "~/Contact.aspx");
+        routes.MapPageRoute("ChuyenMuc", "chuyen-muc", "~/ChuyenMuc.aspx");
 
         //Chuyển tiêu đề tiếng việt có dấu sang không dấu dạng URL abc-def-ghi
         //public string XoaKyTuDacBiet(string str)
